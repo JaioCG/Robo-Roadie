@@ -1,0 +1,15 @@
+{
+  "name": "robo-roadie",
+  "version": "1.0.0",
+  "description": "Discord bot for YARG (Yet Another Rhythm Game)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaio",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.23.2",
+    "dotenv": "^17.2.3"
+  }
+}
