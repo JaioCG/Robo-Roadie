@@ -9,6 +9,8 @@
   "author": "Jaio",
   "license": "ISC",
   "dependencies": {
+    "@octokit/core": "^7.0.5",
+    "dayjs": "^1.11.18",
     "discord.js": "^14.23.2",
     "dotenv": "^17.2.3"
   }
