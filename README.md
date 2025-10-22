@@ -13,3 +13,5 @@ Rewrite of YARG's custom Discord bot.
 - [x] `/formats` - Information about supported formats for songs, backgrounds, and venues *(old /backgrounds, /songs, /cons)*
 - [x] `/streaming` - Streaming essentials for YARG
 - [x] `/venues` - Information about venues
+- [x] `/riffmaster` - How to fix the riffmaster crash
+- [x] `/rule1` - Explain rule 1
