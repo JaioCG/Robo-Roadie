@@ -16,7 +16,7 @@ const replies = [
 	'In soviet YARG, gem eats you.',
 	'Let\'s try to keep the "days without eating gems" streak to a maximum.',
 	'Gems are ONLY for playing, not for eating.',
-	'How about, instead of eating gems, you go eat a hot dog?',
+	'How about, instead of eating gems, you go eat a 🌭hot dog🌭?',
 	'If you\'re hungry, I have a ton of recipies I can provide you that don\'t involve gems.',
 	'Eating gems is scientifically proven to make you worse at YARG.',
 	'They say "You are what you eat"... so I guess if you eat gems, you become a gem? Sounds painful. I wouldn\'t recommend it.',
