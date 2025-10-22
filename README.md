@@ -12,6 +12,9 @@ Rewrite of YARG's custom Discord bot.
 - [x] `/roadmap` - Check our current Roadmap *TODO: Add live roadmap data*
 - [x] `/formats` - Information about supported formats for songs, backgrounds, and venues *(old /backgrounds, /songs, /cons)*
 - [x] `/streaming` - Streaming essentials for YARG
+
+## New features/commands
 - [x] `/venues` - Information about venues
 - [x] `/riffmaster` - How to fix the riffmaster crash
 - [x] `/rule1` - Explain rule 1
+- [x] `/comparison` - Differences between YARG, Clone Hero, and other games
